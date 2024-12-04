@@ -1,1 +1,4 @@
-This is a whatsapp chat analysis project that provides statistical analysis of whatsapp chat betweeen individuals or groups.
+# whatsapp-chat-analysis
+A streamlit app to analyze your whatsapp chats
+
+Demo Link: https://wca-campusx.herokuapp.com/
